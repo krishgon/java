@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LayoutPractice1</string>
+    <string name="age"><b>Age:</b> 15</string>
+    <string name="name"><b>Name:</b> Rohan</string>
+</resources>
